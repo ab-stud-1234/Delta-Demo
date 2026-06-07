@@ -5,3 +5,10 @@ This is demo for Git and GitHub and overview of git and github.
 Ram
 # Student
 Shyam
+
+# Principal 
+Harjeet
+
+# Owner
+Aditya
+
